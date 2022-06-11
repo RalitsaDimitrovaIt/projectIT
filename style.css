@@ -1,0 +1,41 @@
+body {
+    background-color: #fcf6f5ff;
+    width: 1000px;
+    margin: auto;
+}
+header {
+    background-color: #89abe3ff;
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    text-align: center;
+    vertical-align: middle;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+footer{
+    background-color: #89abe3ff;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+h1 {
+    font-family: arial;
+   font-size: 40px;
+   font-weight: bold;
+    color: #fcf6f5ff;
+    text-align: center;
+    margin-top: 20px;
+}
+h6 { 
+    font-family: arial;
+   font-size: 20px;
+    font-weight: bold;
+    color: #fcf6f5ff;
+    text-align: center;
+    margin-top: 5px;
+}
